@@ -1,1 +1,1 @@
-# demojavaweb
+# demojavadesktop
